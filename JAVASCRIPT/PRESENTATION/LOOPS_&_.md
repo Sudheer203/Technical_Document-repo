@@ -114,7 +114,7 @@ for (let key in student) {
 Output
 
 ```
-name Sudheer
+name John
 age 22
 course JavaScript
 ```
